@@ -1,7 +1,7 @@
-//En cours // 
+
 var result:number[]=[];
 var a:number = 5;
-var b:number = 10000;
+var b:number = 10;
 var c:number = 5;
 function root(a:number,b:number,c:number):number[] {
     let d:number = 0;
