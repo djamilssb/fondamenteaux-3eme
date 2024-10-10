@@ -1,3 +1,4 @@
+//en cours// 
 function isPrime(n:number):boolean {
     let res : number  = 0
 
