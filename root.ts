@@ -1,3 +1,4 @@
+//En cours // 
 var result:number[]=[0];
 function root(a:number,b:number,c:number):number[] {
     let d:number = 0;
