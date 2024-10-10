@@ -1,14 +1,13 @@
 function root(a:number,b:number,c:number):number[] {
     var result:number[]=[];
-    let d:number = 0;
-    d = b*b-4*a*c;
+    let d = delta(a,b,c)
 
-    if (d<0){
+    if (d < 0){
         result.push(0)
         return result
     }
 
-    else if (d==0) {
+    else if (d == 0) {
         result.push(-b/(2*a))
         return result
     }
