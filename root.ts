@@ -1,9 +1,5 @@
-
-var result:number[]=[];
-var a:number = 5;
-var b:number = 10;
-var c:number = 5;
 function root(a:number,b:number,c:number):number[] {
+    var result:number[]=[];
     let d:number = 0;
     d = b*b-4*a*c;
 
@@ -24,5 +20,4 @@ function root(a:number,b:number,c:number):number[] {
     }
 
 }
-result = root(a,b,c)
-console.log(result)
+console.log(root(5,10,5))
