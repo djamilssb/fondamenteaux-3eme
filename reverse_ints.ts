@@ -9,4 +9,5 @@ function reverse_ints(n:number):string{
 }
 
 let text2 = reverse_ints(5)
+
 console.log(text2)
