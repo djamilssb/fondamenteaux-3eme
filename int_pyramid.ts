@@ -9,4 +9,5 @@ function int_pyramid(n:number):string{
 }
 
 let textt = int_pyramid(3)
+
 console.log(textt)

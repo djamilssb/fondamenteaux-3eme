@@ -5,6 +5,7 @@ function reverse_ints(n:number):string{
         res = i.toString() + res
         text2 = res
     }
+    
     return text2
 }
 

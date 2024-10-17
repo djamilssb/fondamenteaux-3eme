@@ -7,7 +7,7 @@ function beautiful_mult(n:number):string{
     }
     return text
 }
-let text = beautiful_mult(5)
 
+let text = beautiful_mult(5)
 
 console.log(text)

@@ -1,5 +1,5 @@
-function pgcd(a:number,b:number):number{
-    
-}
+//function pgcd(a:number,b:number):number{
 
-console.log(pgcd(24,32))
+//}
+
+//console.log(pgcd(24,32))
